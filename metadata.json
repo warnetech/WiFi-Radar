@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Radar",
+  "description": "Wi-Fi radar scanner and security logger specializing in detecting and tracking NOKIA- devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
